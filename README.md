@@ -1,7 +1,7 @@
 # Ticket Bot
 Automated ticket booking by using Python + Selenium
 
-# Installation
+# Packages
 `pip install -r requirements.txt`
 
 # Usage
